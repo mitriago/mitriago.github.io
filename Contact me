@@ -13,7 +13,7 @@ html {
     }
  
   p {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Josefin Sans', sans-serif;
   margin-right: 800px
   }
   
